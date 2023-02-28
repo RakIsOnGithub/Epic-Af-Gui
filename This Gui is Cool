@@ -256,7 +256,7 @@ function UILibrary.Main(PrjName,HideKey)
 			Circle.Name = "Circle"
 			Circle.Parent = Circles
 			Circle.AnchorPoint = Vector2.new(0, 0.5)
-			Circle.BackgroundColor3 = Color3.fromRGB(1, 124, 255)
+			Circle.BackgroundColor3 = Color3.fromRGB(255, 132, 0)
 			Circle.BorderSizePixel = 0
 			Circle.Position = UDim2.new(0, (i - 1) * 13, 0.5, 0)
 			Circle.Size = UDim2.new(0, 12, 0, 12)
