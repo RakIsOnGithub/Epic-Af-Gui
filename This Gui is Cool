@@ -321,7 +321,7 @@ function UILibrary.Main(PrjName,HideKey)
 		NofiticationLabel.Size = UDim2.new(0, 350, 0, 25)
 		NofiticationLabel.Font = Enum.Font.GothamSemibold
 		NofiticationLabel.Text = Text
-		NofiticationLabel.TextColor3 = Color3.fromRGB(41, 127, 255)
+		NofiticationLabel.TextColor3 = Color3.fromRGB(255, 132, 0)
 		NofiticationLabel.TextSize = 22.000
 		NofiticationLabel.TextWrapped = true
 		NofiticationLabel.TextTransparency = 1
