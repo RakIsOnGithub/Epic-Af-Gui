@@ -131,7 +131,7 @@ function UILibrary.Main(PrjName,HideKey)
 	List.Size = UDim2.new(0.998000026, 0, 1, 0)
 	List.AutomaticCanvasSize = Enum.AutomaticSize.Y
 	List.ScrollBarThickness = 2
-	List.ScrollBarImageColor3 = Color3.fromRGB(255, 85, 0)
+	List.ScrollBarImageColor3 = Color3.fromRGB(255, 140, 0)
 	List.ScrollBarImageTransparency = 0.5
 	List.CanvasSize = UDim2.new(0,0,0,0)
 
